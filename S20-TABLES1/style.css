@@ -1,0 +1,81 @@
+thead{
+    background-color: yellow;
+    color: red;
+    font-size: 1.5rem;
+   
+   
+}
+tbody{
+    background-color: aqua;
+    color: blue;
+    font-size: 1.2rem;
+   
+}
+tfoot{
+    background-color:red;
+    color:yellowgreen;
+    font-size: 1.5rem;
+   
+
+}
+table{
+    border: 10px solid darkorchid;
+    border-radius: 10px;
+    width: 1000px;
+    border-collapse: collapse;
+    
+}
+td{
+    border: 3px groove black;
+    text-align: center;
+
+}
+th{
+    border: 3px groove black;
+
+}
+h1{
+    background-color: lightseagreen;
+    border: 10px double black;
+    border-radius: 50px;
+    box-shadow:10px 10px 10px black;
+    color: blue;
+    text-shadow: 10px 10px 10px white;
+    font-size: 2rem;
+    display: inline-block;
+    position: relative;
+    left: 350px;
+}
+#table2{
+    border: 10px groove rgb(11, 24, 164);
+    border-radius: 10px;
+    width: 1000px;
+    border-collapse: collapse;
+    
+
+}
+#head2{
+    background-color: rgb(0, 195, 255);
+    color: rgb(5, 58, 9);
+    font-size: 1.5rem;
+
+}
+#body2{
+    background-color:yellow;
+    color: rgb(255, 0, 255);
+    font-size: 1.2rem;
+
+}
+#heading2{
+    background-color: lightpink;
+    border: 10px solid rgb(11, 107, 30);
+    border-radius: 50px;
+    box-shadow:10px 10px 10px black;
+    color: blue;
+    text-shadow: 10px 10px 10px white;
+    font-size: 2rem;
+    display: inline-block;
+    position: relative;
+    left: 350px;
+}
+
